@@ -1,0 +1,2 @@
+C:\Mashrafi\NSU\CSE323\Project\TaskManagerClone\bin\Release\net8.0-windows\win-x64\publish\TaskManagerClone.pdb
+C:\Mashrafi\NSU\CSE323\Project\TaskManagerClone\bin\Release\net8.0-windows\win-x64\publish\TaskManagerClone.exe
